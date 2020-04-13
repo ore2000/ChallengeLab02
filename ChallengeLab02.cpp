@@ -1,3 +1,6 @@
+//Oreoluwa A. Babatunde
+//COSC2030 Challenge Lab 02
+
 #include<iostream>
 
 using namespace std;
