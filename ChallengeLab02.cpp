@@ -26,6 +26,5 @@ int main()
 	}
 
 	cout << "Luke: Captain, I have it! Direct the blast at the engine when the tribble count reaches exaclty " << x << ". We have approximately " << y << " hours before you must do this.\n";
-	system("pause");
 	return 0;
 }
